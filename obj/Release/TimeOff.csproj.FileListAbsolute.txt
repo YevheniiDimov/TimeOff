@@ -1,0 +1,15 @@
+D:\GAMES\Projects\TimeOff\bin\Release\TimeOff.exe.config
+D:\GAMES\Projects\TimeOff\bin\Release\TimeOff.exe
+D:\GAMES\Projects\TimeOff\bin\Release\TimeOff.pdb
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff.csprojAssemblyReference.cache
+D:\GAMES\Projects\TimeOff\obj\Release\MainWindow.g.cs
+D:\GAMES\Projects\TimeOff\obj\Release\App.g.cs
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff_MarkupCompile.cache
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff_MarkupCompile.lref
+D:\GAMES\Projects\TimeOff\obj\Release\MainWindow.baml
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff.g.resources
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff.Properties.Resources.resources
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff.csproj.GenerateResource.cache
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff.csproj.CoreCompileInputs.cache
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff.exe
+D:\GAMES\Projects\TimeOff\obj\Release\TimeOff.pdb

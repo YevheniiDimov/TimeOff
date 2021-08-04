@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeOff", "TimeOff.csproj", "{A506F4B1-394F-4A1B-9D7C-0EAE124FCD38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A506F4B1-394F-4A1B-9D7C-0EAE124FCD38}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{A506F4B1-394F-4A1B-9D7C-0EAE124FCD38}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A506F4B1-394F-4A1B-9D7C-0EAE124FCD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A506F4B1-394F-4A1B-9D7C-0EAE124FCD38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2604BE5D-84C5-4058-88F7-CFD9E054A8EF}
+	EndGlobalSection
+EndGlobal
